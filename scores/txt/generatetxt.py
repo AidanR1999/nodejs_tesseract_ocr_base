@@ -1,3 +1,5 @@
+# builds the text files quickly
+
 o = 'o'
 b = 'b'
 
